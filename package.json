@@ -1,11 +1,23 @@
 {
   "name": "neal-parameter",
   "version": "1.0.0",
-  "description": "## 说明",
+  "description": "## 用作提升个人开发效率, 方便数据校验",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neal-real/neal-parameter.git"
+  },
+  "author": "neal_w_martin <the.real.is.best@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "顺手工具",
+    "数据校验工具"
+  ],
+  "bugs": {
+    "url": "https://github.com/neal-real/neal-parameter/issues"
+  },
+  "homepage": "https://github.com/neal-real/neal-parameter"
 }
